@@ -38,7 +38,9 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
-	<string>2302953913167855</string>
+	<string>1704261623096471</string>
+	<key>FacebookClientToken</key>
+	<string>616c1880cdf5a9ce20fc575d407082fa</string>
 	<key>FacebookDisplayName</key>
 	<string>VTNE Exam</string>
 	<key>LSRequiresIPhoneOS</key>
